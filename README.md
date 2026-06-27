@@ -15,7 +15,7 @@ Always open to internship opportunities, mentorship, collaborative projects, or 
 * 🌍  I'm based in Bhubaneswar, India
 * 🖥️  See my portfolio at [Raj Parida](http://rajparida.netlify.app)
 * ✉️  You can contact me at [rajparida6075@gmail.com](mailto:rajparida6075@gmail.com)
-* 🧠  I'm currently learning React, NodeJS and Amazon AWS.
+* 🧠  I'm currently learning React, FastAPI, LLD and Amazon AWS.
 * 👥  I'm looking to collaborate on Full-Stack projects and Cloud Infrastructure.
 
 <p align="left">
