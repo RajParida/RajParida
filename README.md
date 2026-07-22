@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sophomore | AI/ML Enthusiast
 ----------------------------
 
-I'm a second-year Computer Science student driven by curiosity and a passion for solving problems through code. Whether I'm debugging at 2 AM or exploring new frameworks, I'm constantly learning what makes technology tick—and how to make it work better.
+I'm a third-year Computer Science student driven by curiosity and a passion for solving problems through code. Whether I'm debugging at 2 AM or exploring new frameworks, I'm constantly learning what makes technology tick—and how to make it work better.
 
 Currently building my foundation in Software development, Algorithms, and System Design while seeking opportunities to apply classroom theory to real-world challenges. I'm particularly interested in AI/ML, backend systems and love collaborating with others who are equally excited about building meaningful technology.
 
