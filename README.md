@@ -13,7 +13,7 @@ I believe the best way to learn is by doing, which is why I'm actively working o
 Always open to internship opportunities, mentorship, collaborative projects, or simply connecting with others in the tech community. Let's build something amazing together.
 
 * 🌍  I'm based in Bhubaneswar, India
-* 🖥️  See my portfolio at [Raj Parida]((https://rajparida.github.io/Portfolio-Website/))
+* 🖥️  See my portfolio at [Raj Parida](https://rajparida.github.io/Portfolio-Website/)
 * ✉️  You can contact me at [rajparida6075@gmail.com](mailto:rajparida6075@gmail.com)
 * 🧠  I'm currently learning React, SpringBoot, LLD and AWS.
 * 👥  I'm looking to collaborate on Full-Stack projects and Cloud Infrastructure.
